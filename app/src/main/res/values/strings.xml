@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Badminton</string>
+    <string name="title">BADMINTON</string>
+    <string name="logo">BWF Championships</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="set1">SET-1</string>
+    <string name="set2">SET-2</string>
+    <string name="set3">SET-3</string>
+    <string name="plus1">+</string>
+    <string name="plus2">+</string>
+</resources>
